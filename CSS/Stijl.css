@@ -1,0 +1,40 @@
+.btn{
+    border-radius: 0;
+    background-color: #0056b3;
+}
+
+footer{
+    height: 50px;
+    background-color: rgb(13 110 253);
+    color:white;
+    display: flex;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 250px;
+    height: auto;
+    object-fit: cover;
+}
+
+p{
+    margin: 10px 100px 10px 100px;
+}
+
+form{
+    margin: 10px 100px 10px 100px;
+    width: 25%;
+}
+
+h1{
+    margin: 5px 0px 0px  100px;
+}
+
+.navbar-brand{
+    margin: 0px 0px 0px 25px;
+}
